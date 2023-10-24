@@ -4,11 +4,11 @@
 
 <div align="center">
  <a href="https://twitter.com/dev_natan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_natan" height="20" width="30" /></a>
- <a href="https://linkedin.com/in/natan-feitosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natan-feitosa" height="20" width="30" /></a>
+ <a href="https://linkedin.com/in/natanfeitosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natan-feitosa" height="20" width="30" /></a>
  <a href="https://stackoverflow.com/users/13710832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13710832" height="20" width="30" /></a>
  <a href="https://instagram.com/santos_natanoficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santos_natanoficial" height="20" width="30" /></a>
  <a href="https://www.hackerrank.com/natanfeitosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="natanfeitosa" height="20" width="30" /></a>
- <a href="https://www.devnatan.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="natanfeitosa" height="20" width="30" /></a>
+ <a href="https://natanfeitosa.onrender.com/blog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="natanfeitosa" height="20" width="30" /></a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Natan</h1>
@@ -26,7 +26,7 @@ I am a Full Stack Developer from Brazil.
 
 - :zap: In my free time, I solve programming challenges and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-natan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natan-feitosa/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-natan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natanfeitosa/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
