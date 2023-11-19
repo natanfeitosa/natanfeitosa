@@ -38,5 +38,3 @@ I am a Full Stack Developer from Brazil.
 
 ![My weak](https://github-readme-streak-stats.herokuapp.com/?user=natanfeitosa&theme=github-dark-blue&hide_border=true&border_radius=10&locale=en&date_format=&mode=weekly&properties=background)
 ![Natan Feitosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanfeitosa&show_icons=true&theme=github_dark&custom_title=@natanfeitosa%27s%20GitHub%20Stats&hide_border=true)
-
-<a href="https://app.bounties4.com/@/natanfeitosa" target="_blank"><img title="bounties4.com/@/natanfeitosa" alt="bounties4.com/@/natanfeitosa" src="https://storage.googleapis.com/profile_avatar/production/115914837093048296601/1697644246835_badge.png" width="400" height="400" /></a>
